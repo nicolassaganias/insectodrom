@@ -1,0 +1,1 @@
+raspivid -o - -t 0 -vf -hf -fps 30 -b 600000 -p 1000,500,300,300 | ffmpeg -i pipe: -f alsa -ac 1 -i plughw:2,0 -vcodec copy -acodec aac -ab 128k -g 50 -strict experimental -f flv rtmp://a.rtmp.youtube.com/live2/q5aa-khfq-sy84-1zr8-eukg

@@ -1,0 +1,8 @@
+Raspi examples, references, general: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13652
+Infrared Bird Box: https://projects.raspberrypi.org/en/projects/infrared-bird-box/10
+Parent detector (PIR): https://projects.raspberrypi.org/en/projects/parent-detector/1
+Pi Camera wiki(hardware): https://www.raspberrypi.org/documentation/accessories/camera.html
+picamera lib: https://picamera.readthedocs.io/en/release-1.13/
+pistreaming lib: https://github.com/waveform80/pistreaming/
+autoRun Terminal: https://www.raspberrypi-spy.co.uk/2015/02/how-to-autorun-a-python-script-on-raspberry-pi-boot/
+autoRun crontab: 
